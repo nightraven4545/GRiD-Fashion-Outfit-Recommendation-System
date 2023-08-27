@@ -20,7 +20,7 @@ The Outfit Recommender System is a versatile and intelligent solution designed t
 ## 3. How It Works
 
 
-1.Input Analysis: Users provide input in the form of text, describing the type of outfit they desire. For instance, "casual blue jeans" or "formal black dress."
+            1.Input Analysis: Users provide input in the form of text, describing the type of outfit they desire. For instance, "casual blue jeans" or "formal black dress."
 
 2. Keyword Extraction: The system employs NLP techniques to extract key information from the input, such as color and outfit type.
 

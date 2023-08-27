@@ -17,4 +17,15 @@ The Outfit Recommender System is a versatile and intelligent solution designed t
 4. Purchase History Integration: By analyzing your purchase history, the system can also suggest outfits that align with your previous fashion choices, making your shopping experience even more tailored.
 
 
+## 3. How It Works
+
+1.Input Analysis: Users provide input in the form of text, describing the type of outfit they desire. For instance, "casual blue jeans" or "formal black dress."
+
+2. Keyword Extraction: The system employs NLP techniques to extract key information from the input, such as color and outfit type.
+
+3. Database Comparison: It searches a vast outfit database for items that match the extracted keywords.
+
+4. Recommendation Generation:  For user input-based recommendations, content-based recommendation techniques are employed, while purchase history-based recommendations utilize collaborative filtering methods. This dual approach ensures that you receive personalized outfit suggestions that cater to both your stated preferences and your past fashion choices.
+
+5. Purchase History Analysis: If users opt to include their purchase history, the system considers past preferences to enhance the recommendations further.
 

@@ -10,6 +10,10 @@ The Outfit Recommender System is a versatile and intelligent solution designed t
 
  1. Keyword Analysis: The system extracts essential keywords from user input, including color and outfit type, to understand your style preferences.
 
+
+https://github.com/nightraven4545/Outfit-Recommendation-System/assets/77679539/4e0bc01a-9e43-47eb-91d7-dd87f79705bd
+
+
 2. Database Comparison: It compares the extracted keywords with a comprehensive database of outfits to identify the best matching options.
 
 3. Top 5 Recommendations: The system generates a curated list of the top 5 outfit recommendations based on your input, ensuring you have a range of choices to suit your style.

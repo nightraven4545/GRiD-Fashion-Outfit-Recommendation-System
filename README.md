@@ -1,4 +1,4 @@
-# Outfit-Recommendation-System
+# GRiD Fashion-Outfit-Recommendation-System
 
 
 ## 1. Overview
